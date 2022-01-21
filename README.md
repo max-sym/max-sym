@@ -1,4 +1,3 @@
-## About
 
 <div>
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=max-sym&show_icons=true&theme=merko&count_private=true">
